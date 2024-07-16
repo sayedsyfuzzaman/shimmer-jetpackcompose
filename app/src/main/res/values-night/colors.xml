@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorSettingsDivider">#29466B</color>
+    <color name="placeholder_logo_color">#829AB8</color>
+    <color name="placeholderBgColor">#6781A1</color>
+    <color name="cardBgColor">#111F31</color>
+</resources>
